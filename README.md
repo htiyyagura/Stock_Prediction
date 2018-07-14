@@ -14,3 +14,4 @@ An evnet driven model that uses financial time series data, technical indicators
 2. Combine news and technical data.
 3. Data preparation and sentiment analysis.
 4. Predict using Recurrent Neural Network
+5. Adding twitter sentiment to the data (if time permits)
